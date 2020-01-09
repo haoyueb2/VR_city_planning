@@ -1,0 +1,242 @@
+fileFormatVersion: 2
+guid: 4a18bb4ed2561db4db1e3c3f4d2098bc
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 0000000001000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 2f1ae40a7f2e556ef7db9aa33488c312
+  longitude: -0.17588
+  latitude: 52.32103
+  northCorrection: 2.236076227965043
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 52.33203, y: 5.622535, z: 136.93503}
+      lookAt: {x: 136.66069, y: -11.6674795, z: 114.14615}
+      up: {x: 0.18744072, y: 0.980969, z: -0.050653763}
+      fov: 30
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 0, y: 0.0254, z: 0}
+        lookAt: {x: 0, y: 0, z: 0}
+        up: {x: 0, y: 0, z: 1}
+        fov: 30
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Perspective
+    - camera:
+        position: {x: 0, y: 0.0254, z: 0}
+        lookAt: {x: 0, y: 0, z: 0}
+        up: {x: 0, y: 0, z: 1}
+        fov: 30
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Top
+    - camera:
+        position: {x: 0, y: 0.0254, z: 0}
+        lookAt: {x: 0, y: 0, z: 0}
+        up: {x: 0, y: 0, z: 1}
+        fov: 30
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Front
+    - camera:
+        position: {x: 0, y: 0.0254, z: 0}
+        lookAt: {x: 0, y: 0, z: 0}
+        up: {x: 0, y: 0, z: 1}
+        fov: 30
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Right
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2100000: walkway
+    2100002: _auto_
+    2100004: floor2
+    2100006: floor1
+    2100008: yellowline
+    2100010: floor3
+    2100012: marble
+    2100014: bars
+    2100016: electricpole
+    2100018: garden
+    2100020: glass
+    2100022: grass
+    2100024: asphalt
+    2100026: structure
+    2100028: trafficline
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Mesh jidi3.01
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _auto_
+    second: {fileID: 2100000, guid: fc7f68dfa02621f43ad0c5229727dc28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphalt
+    second: {fileID: 2100000, guid: 142acacda37d59f4c9e1be34d0c84570, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bars
+    second: {fileID: 2100000, guid: a9175778fc03b1a4db2d9480616c49bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: electricpole
+    second: {fileID: 2100000, guid: dec9657ea209bdf4f9d886b1a648a023, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floor1
+    second: {fileID: 2100000, guid: fb0f5c34cec4e0543a1606b70795d20f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floor2
+    second: {fileID: 2100000, guid: c55d43df1daa00440ad7fddcb95a2068, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floor3
+    second: {fileID: 2100000, guid: 743657d004942274b8c30e9bee998bea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: garden
+    second: {fileID: 2100000, guid: 01c9c5c28fb28a049a6e0e93cc279118, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass
+    second: {fileID: 2100000, guid: 5211815dc3d4ba2468b7e988789bb1d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass
+    second: {fileID: 2100000, guid: b60965d803be43047984be8bb4213b29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: marble
+    second: {fileID: 2100000, guid: 19a508850b5f1364486ed22cd83f4eee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: structure
+    second: {fileID: 2100000, guid: d52982acad0799942a0e794d18a9b90b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trafficline
+    second: {fileID: 2100000, guid: eff37e48881e76a48a6b47f90603fb23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: walkway
+    second: {fileID: 2100000, guid: 8986c0d693cf09c46b655d50a308a6bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: yellowline
+    second: {fileID: 2100000, guid: b259140a3c2453745aff5cb28d3c2931, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
